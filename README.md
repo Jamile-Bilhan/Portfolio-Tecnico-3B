@@ -1,2 +1,3 @@
 # Portfolio-Tecnico-3B
-Tenho um pouco de experiencia com banco de dados e java.
+
+Meu nome completo é Jamile Francine Vendruscolo Bilhan tenho 17 anos e faço 18 dia 20 de Outubro, nasci em Santa Catarina e moro na Palhoça. Me considero uma pessoa tímida e atenciosa, calma e organizada. Tenho um pouco de experiencia com banco de dados e java, mas tenho um pouco de dificuldade com essa área de programação. 
